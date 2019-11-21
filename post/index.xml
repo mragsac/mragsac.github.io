@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Michelle Ragsac</title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Michelle Ragsac © 2019</copyright><lastBuildDate>Wed, 20 Nov 2019 11:39:12 -0800</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>/post/hello-world/</link>
+      <pubDate>Wed, 20 Nov 2019 11:39:12 -0800</pubDate>
+      <guid>/post/hello-world/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m Michelle, a Filipino-American and alumni of the University of California, San Diego Bioengineering Undergraduate Program, the Osaka University FrontierLab Summer Exchange Program, and Agena Bioscience. I grew up in the San Francisco Bay Area and am now based in San Diego to pursue my PhD in Bioinformatics from the University of California, San Diego in Emma Farley&amp;rsquo;s laboratory. It&amp;rsquo;s been a small goal of mine to develop my online presence, as well as blog about my experiences as a bioinformatics student, so I created this blog to hopefully accomplish these goals!&lt;/p&gt;
+
+&lt;p&gt;For this blog, I&amp;rsquo;m planning to check in once a month about my experiences with graduate school and academic research! Growing up, I didn&amp;rsquo;t know anybody who pursued graduate education, so I hope this will be interesting to those who are in a similar situation or those who are interested in seeing what goes on behind the scenes for science.&lt;/p&gt;
+
+&lt;p&gt;Thanks for reading this first post! I look forward to seeing you again for the next update. If you want to chat, I&amp;rsquo;m also relatively active on my &lt;a href=&#34;https://twitter.com/mragsac&#34; target=&#34;_blank&#34;&gt;Twitter&lt;/a&gt; account.&lt;/p&gt;
+
+&lt;p&gt;Cheers!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
