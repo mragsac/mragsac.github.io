@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Michelle Ragsac</title>
-    <link>https://https://mragsac.github.io/</link>
-      <atom:link href="https://https://mragsac.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://mragsac.github.io/</link>
+      <atom:link href="https://mragsac.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Michelle Ragsac</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Michelle Ragsac © 2019</copyright><lastBuildDate>Wed, 20 Nov 2019 11:39:12 -0800</lastBuildDate>
     <image>
-      <url>https://https:/mragsac.github.io/img/icon-192.png</url>
+      <url>https://mragsac.github.io/img/icon-192.png</url>
       <title>Michelle Ragsac</title>
-      <link>https://https://mragsac.github.io/</link>
+      <link>https://mragsac.github.io/</link>
     </image>
     
     <item>
       <title>Hello World!</title>
-      <link>https://https://mragsac.github.io/2019/11/20/hello-world/</link>
+      <link>https://mragsac.github.io/2019/11/20/hello-world/</link>
       <pubDate>Wed, 20 Nov 2019 11:39:12 -0800</pubDate>
-      <guid>https://https://mragsac.github.io/2019/11/20/hello-world/</guid>
+      <guid>https://mragsac.github.io/2019/11/20/hello-world/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m Michelle, a Filipino-American and alumni of the University of California, San Diego Bioengineering Undergraduate Program, the Osaka University FrontierLab Summer Exchange Program, and Agena Bioscience. I grew up in the San Francisco Bay Area and am now based in San Diego to pursue my PhD in Bioinformatics from the University of California, San Diego in Emma Farley&amp;rsquo;s laboratory. It&amp;rsquo;s been a small goal of mine to develop my online presence, as well as blog about my experiences as a bioinformatics student, so I created this blog to hopefully accomplish these goals!&lt;/p&gt;
 
 &lt;p&gt;For this blog, I&amp;rsquo;m planning to check in once a month about my experiences with graduate school and academic research! Growing up, I didn&amp;rsquo;t know anybody who pursued graduate education, so I hope this will be interesting to those who are in a similar situation or those who are interested in seeing what goes on behind the scenes for science.&lt;/p&gt;
