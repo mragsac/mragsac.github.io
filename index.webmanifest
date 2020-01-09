@@ -2,8 +2,8 @@
   "name": "Michelle Ragsac",
   "short_name": "Michelle Ragsac",
   "lang": "en-us",
-  "theme_color": "#2962ff",
-  "background_color": "#2962ff",
+  "theme_color": "rgb(53, 156, 134)",
+  "background_color": "rgb(53, 156, 134)",
   "icons": [{
     "src": "../img/icon-192.png",
     "sizes": "192x192",

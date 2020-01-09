@@ -5,12 +5,54 @@
     <link>https://mragsac.github.io/</link>
       <atom:link href="https://mragsac.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Michelle Ragsac</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Michelle Ragsac © 2019</copyright><lastBuildDate>Wed, 20 Nov 2019 11:39:12 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Michelle Ragsac © 2020</copyright><lastBuildDate>Thu, 09 Jan 2020 13:18:51 -0800</lastBuildDate>
     <image>
       <url>https://mragsac.github.io/img/icon-192.png</url>
       <title>Michelle Ragsac</title>
       <link>https://mragsac.github.io/</link>
     </image>
+    
+    <item>
+      <title>Fall Quarter and Winter Vacation Recap</title>
+      <link>https://mragsac.github.io/2020/01/09/fall-quarter-and-winter-vacation-recap/</link>
+      <pubDate>Thu, 09 Jan 2020 13:18:51 -0800</pubDate>
+      <guid>https://mragsac.github.io/2020/01/09/fall-quarter-and-winter-vacation-recap/</guid>
+      <description>
+
+&lt;p&gt;Fall Quarter 2019 passed by very quickly since the last time I was updating this website, and then I got so caught up in my holiday vacation that I forgot to update things! My goal is to blog semi-regularly, so let&amp;rsquo;s hope that happens—fingers crossed.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&#34;coursework-recap&#34;&gt;Coursework Recap&lt;/h2&gt;
+
+&lt;p&gt;For &lt;a href=&#34;https://bioinformatics.ucsd.edu/&#34; target=&#34;_blank&#34;&gt;my graduate program&lt;/a&gt;, students generally take courses during their first two years of study. Because I’m a part of the &amp;ldquo;Bioinformatics &amp;amp; Systems Biology&amp;rdquo; (BISB) track, I spent last year—my first year—taking core courses in bioinformatics algorithms, genomics and proteomics, statistics, and network biology. In addition to these core courses, my program requires that I take several elective courses in topics of my choosing. However, we&amp;rsquo;re required to take at least one computer science class (e.g. algorithms, machine learning, data mining, or modeling) and at least one biology class (e.g. biochemistry, molecular genetics, or cell biology). During Fall Quarter 2019, I took two elective courses to try and satisfy these requirements:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;CSE 258. Recommender Systems and Web Mining&lt;/strong&gt; &lt;br&gt;to fulfill my computer science elctive, as well as get an overview of machine learning techniques &lt;br&gt;[Course Website: &lt;a href=&#34;http://cseweb.ucsd.edu/classes/fa19/cse258-a/&#34; target=&#34;_blank&#34;&gt;http://cseweb.ucsd.edu/classes/fa19/cse258-a/&lt;/a&gt;]&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;MED 268. Statistics Concepts for Biomedical Research&lt;/strong&gt; &lt;br&gt;to fulfill a general elective requirement, and review some concepts in statistics and how those concepts can be applied to biomedical experiments&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;While I was nervous to take these classes, I would highly recommend them to students in Bioinformatics, Biomedical Informatics, Biomedical Sciences, or even Biology! For CSE 258, the course was taught from a practical standpoint, and focused on the exact packages that people would use to input their own data into machine learning models. Additionally, MED 268 was the best statistics course that I have ever taken! It was taught using the R programming language and focused on easing people (mainly medical students and biologists without any programming experience) into using existing packages to perform power analyses, plotting, and other evaluations of their data.&lt;/p&gt;
+
+&lt;p&gt;Despite having homework assignments nearly every week, I thought taking these two courses were worth it, and I feel like I left Fall Quarter having learned a good amount of practical skills.&lt;/p&gt;
+
+&lt;h2 id=&#34;winter-vacation&#34;&gt;Winter Vacation&lt;/h2&gt;
+
+&lt;p&gt;Towards the end of the quarter, I was starting to feel a little fatigued. Honestly, I wasn’t really enjoying the project that I was working on, and it felt like I kept getting sucked into hours of debugging my code. I felt like I was drowning in assignments: working on my final project for CSE, studying for my MED final exam, and finishing up milestones for my research project! When the quarter ended, and I finished my meetings on my last day at school before the holiday, it felt like a massive weight had been lifted off my shoulders. I was also finally able to deep clean my apartment!&lt;/p&gt;
+
+&lt;p&gt;For the winter holiday, I flew back to San Francisco to visit family for Christmas and New Year&amp;rsquo;s celebrations. During my time at home, it was nice to get updated on the latest family gossip, as well as spend time making and eating my favorite foods that I grew up with. As I watched the entirety of Star Wars theatrical releases over the span of two days and slept in until 9:30AM on Weekday mornings, I felt myself recharging after the hustle and bustle of the academic quarter.&lt;/p&gt;
+
+&lt;p&gt;But in every conversation I had with family, there was always the looming questions of, &amp;ldquo;What&amp;rsquo;s taking so long in school?&amp;rdquo; or &amp;ldquo;Are you going to be a real doctor?&amp;rdquo; or &amp;ldquo;Why haven&amp;rsquo;t you finished yet?&amp;rdquo; or even &amp;ldquo;Why aren&amp;rsquo;t you working yet?&amp;rdquo;. As one of the first in my first-generation family to pursue graduate education—let alone undergraduate education in the United States—it was exhausting to continuously explain and re-explain the system or tell them what I was doing in school and why I was still in school. I felt myself resorting to responses like, &amp;ldquo;I&amp;rsquo;ll be done soon, don&amp;rsquo;t worry&amp;rdquo;, to ease their concerns over my future self&amp;rsquo;s ability to find a job, have kids, or get married.&lt;/p&gt;
+
+&lt;p&gt;Overall, I enjoyed going home for the holidays, but it reminded me of how much &lt;em&gt;more&lt;/em&gt; I should visit home to stay in touch. The vacation also reminded me of the importance of taking breaks and building in time into my schedule to decompress during the week.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Now, I&amp;rsquo;m finally back in San Diego and completely set-up for Winter Quarter 2020! I&amp;rsquo;ll give an update on how things are going later.&lt;/p&gt;
+
+&lt;p&gt;Cheers!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Hello World!</title>
