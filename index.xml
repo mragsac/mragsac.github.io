@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Michelle Franc Ragsac</title>
+    <title>MFR</title>
     <link>https://mragsac.github.io/</link>
       <atom:link href="https://mragsac.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Michelle Franc Ragsac</description>
+    <description>MFR</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Michelle Franc Ragsac © 2020</copyright><lastBuildDate>Sun, 26 Jan 2020 15:08:58 -0800</lastBuildDate>
     <image>
       <url>https://mragsac.github.io/img/icon-192.png</url>
-      <title>Michelle Franc Ragsac</title>
+      <title>MFR</title>
       <link>https://mragsac.github.io/</link>
     </image>
     
@@ -98,6 +98,14 @@
 &lt;p&gt;Thanks for reading this first post! I look forward to seeing you again for the next update. If you want to chat, I&amp;rsquo;m also relatively active on my &lt;a href=&#34;https://twitter.com/mragsac&#34;&gt;Twitter&lt;/a&gt; account.&lt;/p&gt;
 &lt;p&gt;Cheers!&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>https://mragsac.github.io/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mragsac.github.io/cv/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Michelle Franc Ragsac</title>
+    <title>MFR</title>
     <link>https://mragsac.github.io/authors/admin/</link>
       <atom:link href="https://mragsac.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
-    <description>Michelle Franc Ragsac</description>
+    <description>MFR</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Michelle Franc Ragsac © 2020</copyright>
   </channel>
 </rss>
