@@ -3,13 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mragsac.github.io/categories/</loc>
+    <lastmod>2020-03-01T09:35:45-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mragsac.github.io/</loc>
-    <lastmod>2020-01-26T15:08:58-08:00</lastmod>
+    <lastmod>2020-03-01T09:35:45-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mragsac.github.io/categories/monthly-updates/</loc>
+    <lastmod>2020-03-01T09:35:45-08:00</lastmod>
   </url>
   
   <url>
     <loc>https://mragsac.github.io/post/</loc>
-    <lastmod>2020-01-26T15:08:58-08:00</lastmod>
+    <lastmod>2020-03-01T09:35:45-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mragsac.github.io/2020/03/01/winter-quarter-2020-update-health-student-activism/</loc>
+    <lastmod>2020-03-01T09:35:45-08:00</lastmod>
   </url>
   
   <url>
@@ -18,7 +33,7 @@
   </url>
   
   <url>
-    <loc>https://mragsac.github.io/2020/01/09/fall-quarter-and-winter-vacation-recap/</loc>
+    <loc>https://mragsac.github.io/2020/01/09/fall-quarter-2019-and-winter-vacation-recap/</loc>
     <lastmod>2020-01-09T13:18:51-08:00</lastmod>
   </url>
   
@@ -33,10 +48,6 @@
   
   <url>
     <loc>https://mragsac.github.io/authors/</loc>
-  </url>
-  
-  <url>
-    <loc>https://mragsac.github.io/categories/</loc>
   </url>
   
   <url>
