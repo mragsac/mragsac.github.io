@@ -5,15 +5,12 @@
     <link>https://mragsac.github.io/authors/</link>
       <atom:link href="https://mragsac.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Michelle Franc Ragsac © 2020</copyright>
-    <item>
-      <title></title>
-      <link>https://mragsac.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://mragsac.github.io/authors/admin/</guid>
-      <description>&lt;p&gt;Hello! My name is Michelle Franc Ragsac, and I am currently a graduate student in the Bioinformatics &amp;amp; Systems Biology PhD program at the University of California, San Diego as a member of the Farley Laboratory. My research interests include embryonic development in the model organism &lt;em&gt;Ciona intestinalis&lt;/em&gt; using single-cell technologies and computational genomics. I am also interested in scientific outreach and science education!&lt;/p&gt;
-</description>
-    </item>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Michelle Franc Ragsac © 2021</copyright>
+    <image>
+      <url>https://mragsac.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://mragsac.github.io/authors/</link>
+    </image>
     
   </channel>
 </rss>

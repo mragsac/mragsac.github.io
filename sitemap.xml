@@ -1,83 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://mragsac.github.io/categories/</loc>
     <lastmod>2020-07-12T11:25:57-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mragsac.github.io/2020/07/12/covid-19-quarantine-part-1/</loc>
     <lastmod>2020-07-12T11:25:57-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mragsac.github.io/</loc>
     <lastmod>2020-07-12T11:25:57-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mragsac.github.io/categories/monthly-updates/</loc>
     <lastmod>2020-07-12T11:25:57-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mragsac.github.io/post/</loc>
     <lastmod>2020-07-12T11:25:57-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mragsac.github.io/2020/04/09/spring-madness-2020/</loc>
     <lastmod>2020-04-09T15:09:03-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mragsac.github.io/2020/03/01/winter-quarter-2020-update-health-student-activism/</loc>
     <lastmod>2020-03-01T09:35:45-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mragsac.github.io/2020/01/26/starting-winter-quarter-2020/</loc>
     <lastmod>2020-01-26T15:08:58-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mragsac.github.io/2020/01/09/fall-quarter-2019-and-winter-vacation-recap/</loc>
     <lastmod>2020-01-09T13:18:51-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mragsac.github.io/2019/11/20/hello-world/</loc>
     <lastmod>2019-11-20T11:39:12-08:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mragsac.github.io/authors/admin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mragsac.github.io/authors/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mragsac.github.io/cv/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mragsac.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mragsac.github.io/publication/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mragsac.github.io/talk/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://mragsac.github.io/tags/</loc>
   </url>
-  
 </urlset>
