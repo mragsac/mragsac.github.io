@@ -1,0 +1,18 @@
+project:
+  type: website
+
+website:
+  title: "Michelle Franc Ragsac, Ph.D."
+  site-url: https://mragsac.com
+  navbar:
+    right:
+      - text: "About"
+        href: index.qmd
+      - text: "Resume"
+        href: https://linkedin.com/in/michelleragsac
+    search: false
+
+format:
+  html:
+    theme: flatly
+    toc: false
