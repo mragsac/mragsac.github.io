@@ -1,0 +1,9 @@
+---
+title: "Adapting to a new scientific discipline"
+description: "Re-learning how to learn and give myself grace as a lifelong learner!"
+date: "2/15/2025"
+categories: ['bioinformatics']
+draft: true
+---
+
+*TBA*

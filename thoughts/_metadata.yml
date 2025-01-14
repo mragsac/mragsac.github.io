@@ -2,8 +2,9 @@
 # Provide options applying to all posts in folder
 # https://quarto.org/docs/reference/formats/html.html
 #################################################
+# Create some defaults for posts, such as drafts by default
 author: "Michelle Franc Ragsac"
-draft: true # all documents are drafts by default
+draft: true 
 
 # Freeze computational output
 freeze: true 
