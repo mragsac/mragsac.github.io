@@ -1,7 +1,11 @@
 ---
-title: Page Not Found
+title: "{{< fa solid face-sad-tear >}}"
 ---
 
-The page you requested cannot be found (perhaps it was moved or renamed).
+# Oh no! You've encountered a 404 Error!
+
+The page you requested cannot be found on this website. 
+
+Perhaps it was moved or renamed! 
 
 You may want to try searching to find the page's new location.

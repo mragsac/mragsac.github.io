@@ -1,19 +1,55 @@
 project:
   type: website
-  output-dir: docs
+  preview:
+    port: 8888
+    browser: false
+    watch-inputs: true
+  
+  # Since website is hosted on github-pages, output
+  # to the docs folder as per the documentation ...
+  # https://quarto.org/docs/publishing/github-pages.html
+  output-dir: docs 
 
 website:
   title: "Michelle Franc Ragsac, Ph.D."
+  description: "A collection of musings from a Filipina American bioinformatics scientist based in San Diego, California"
+  favicon: resources/images/favicon.png
   site-url: https://mragsac.com
+  repo-url: https://github.com/mragsac/mragsac.github.io
+  repo-branch: gh-pages
+  google-analytics: G-0LJTRJK2N4
+  page-footer: 
+    center: "© 2025, Michelle Franc Ragsac"
+
+  # https://quarto.org/docs/reference/projects/websites.html#navbar
   navbar:
+    background: secondary
+    pinned: true
+    collapse: true
+    collapse-below: lg
+    toggle-position: right
     right:
       - text: "About"
         href: index.qmd
-      - text: "Resume"
-        href: https://linkedin.com/in/michelleragsac
-    search: false
+        aria-label: "Website Home"
+      - text: "Thoughts"
+        href: thoughts.qmd
+        aria-label: "Website Blog Posts"
+  search: 
+    location: navbar
+    type: overlay
+    show-item-context: true
+
+  # https://quarto.org/docs/reference/projects/websites.html#announcement
+  # announcement: 
+  #   icon: info-circle
+  #   content: "**Announcement Contents Go Here**"
+  #   position: below-navbar 
+  #   dismissable: false
+  #   type: info
 
 format:
   html:
-    theme: flatly
+    theme: flatly # https://bootswatch.com/flatly/
+    email-obfuscation: references
     toc: false

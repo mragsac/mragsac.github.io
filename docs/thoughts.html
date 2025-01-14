@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Michelle Franc Ragsac, Ph.D.</title>
+<title>Thoughts – Michelle Franc Ragsac, Ph.D.</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,16 +30,17 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./resources/images/favicon.png" rel="icon" type="image/png">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-da06504ef733e714a5411acf72b8ca5f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -67,6 +68,35 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-categories','listing-description','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
+      
+      searchColumns: [],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-0LJTRJK2N4"></script>
 
 <script type="text/javascript">
@@ -77,6 +107,35 @@ gtag('js', new Date());
 gtag('config', 'G-0LJTRJK2N4', { 'anonymize_ip': true});
 </script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -98,11 +157,11 @@ gtag('config', 'G-0LJTRJK2N4', { 'anonymize_ip': true});
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./thoughts.html"> 
+    <a class="nav-link active" href="./thoughts.html" aria-current="page"> 
 <span class="menu-text">Thoughts</span></a>
   </li>  
 </ul>
@@ -118,54 +177,59 @@ gtag('config', 'G-0LJTRJK2N4', { 'anonymize_ip': true});
 <!-- margin-sidebar -->
     
 <!-- main -->
-<div class="quarto-about-solana column-body">
-  <div class="about-entity">
-    <div class="entity-contents">
-      <header id="title-block-header" class="quarto-title-block default">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Michelle Franc Ragsac, Ph.D.</h1>
+<h1 class="title">Thoughts</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
-</header> <div class="about-links">
-  <a href="https://bsky.app/mragsac.com" class="about-link" rel="" target="">
-     <span class="about-link-text"><i class="fa-brands fa-bluesky" aria-label="bluesky"></i> Bluesky</span>
-  </a>
-  <a href="https://github.com/mragsac" class="about-link" rel="" target="">
-     <span class="about-link-text"><i class="fa-brands fa-github" aria-label="github"></i> GitHub</span>
-  </a>
-  <a href="https://scholar.google.com/citations?user=oIXWPUAAAAAJ&amp;hl=en" class="about-link" rel="" target="">
-     <span class="about-link-text"><i class="fa-brands fa-google-scholar" aria-label="google-scholar"></i> Google Scholar</span>
-  </a>
-  <a href="https://linkedin.com/in/michelleragsac" class="about-link" rel="" target="">
-     <span class="about-link-text"><i class="fa-brands fa-linkedin" aria-label="linkedin"></i> LinkedIn</span>
-  </a>
-</div>
-      <div class="about-contents"><main class="content" id="quarto-document-content">
-<section id="bio" class="level1">
-<h1><code>bio</code></h1>
-<p><strong>Michelle Franc Ragsac</strong> is a Filipino American bioinformatician based in sunny San Diego, California. When not analyzing genetic data at the command line, Michelle enjoys exploring the food scene in whatever city she’s in or playing with her shiba inu, Yuuki.</p>
-<p>Currently, she is a <strong>Postdoctoral Scholar</strong> studying pediatric asthma in <a href="https://www.amariutalab.org/">Tiffany Amariuta’s</a> group at the University of California, San Diego <a href="https://datascience.ucsd.edu/">Halıcıoğlu Data Science Institute</a>.</p>
-</section>
-<section id="education" class="level1">
-<h1><code>education</code></h1>
-<section id="university-of-california-san-diego" class="level3">
-<h3 data-anchor-id="university-of-california-san-diego">University of California, San Diego</h3>
-<ul>
-<li><strong>Ph.D.</strong> Bioinformatics &amp; Systems Biology (<em>Sep 2018–Dec 2022</em>)</li>
-<li><strong>B.S.</strong> Bioengineering: Bioinformatics (<em>Sep 2013–Sep 2017</em>)</li>
-</ul>
+  
 
 
-</section>
-</section>
-</main></div>
-    </div>
-    <img src="resources/images/profile.jpg" class="about-image
-  rounded " style="width: 15em;">
+</header>
+
+
+<p>This is the corner of my website filled with thoughts and other musings. I’ll post here <em>intermittently</em> about science and non-science things that have been on my mind lately.</p>
+<!-- All of the posts for this blog will be featured after this comment! -->
+
+
+
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-date-sort" data-direction="asc">
+          Date - Oldest
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Date - Newest
+        </option>
+     </select>
   </div>
 </div>
- <!-- /main -->
+<div class="list grid quarto-listing-cols-2">
+
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -186,6 +250,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     
