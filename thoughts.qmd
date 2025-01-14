@@ -1,0 +1,27 @@
+---
+title: "Thoughts"
+
+# https://quarto.org/docs/reference/projects/websites.html#listings
+listing:
+    contents: 
+        - thoughts
+    image-placeholder: resources/images/favicon.png
+
+    # For grid listings, the [image, title, subtitle, reading-time, categories, description, author, date, date-modified] fields will be arranged on the body of the card. The [filename, file-modified] fields will appear in the card footer. Any other fields will appear in a table at the bottom of the card body.
+    type: grid
+    sort: 
+        - "date desc"
+        - "title desc"
+    sort-ui: [title, date]
+    filter-ui: false
+    categories: false
+    date-format: full
+    grid-columns: 2
+    grid-item-border: true
+    grid-item-align: left
+    fields: [image, title, categories, description, date]
+---
+
+This is the corner of my website filled with thoughts and other musings. I'll post here *intermittently* about science and non-science things that have been on my mind lately.
+
+<!-- All of the posts for this blog will be featured after this comment! -->
