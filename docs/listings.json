@@ -1,6 +1,8 @@
 [
   {
     "listing": "/thoughts.html",
-    "items": []
+    "items": [
+      "/thoughts/2025-01-hello-world/index.html"
+    ]
   }
 ]

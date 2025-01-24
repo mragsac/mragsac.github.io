@@ -1,7 +1,7 @@
 ---
 title: "Hello, world."
 description: "A more formal introduction to this corner of the internet I’ve rebuilt (again)."
-date: "1/15/2025"
+date: "1/24/2025"
 categories: ['personal']
 draft: false
 ---

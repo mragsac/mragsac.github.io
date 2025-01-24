@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mragsac.com/index.html</loc>
-    <lastmod>2025-01-14T06:16:24.832Z</lastmod>
+    <loc>https://mragsac.com/thoughts.html</loc>
+    <lastmod>2025-01-24T18:46:13.854Z</lastmod>
   </url>
   <url>
-    <loc>https://mragsac.com/thoughts.html</loc>
-    <lastmod>2025-01-14T06:15:52.298Z</lastmod>
+    <loc>https://mragsac.com/thoughts/2025-01-hello-world/index.html</loc>
+    <lastmod>2025-01-24T18:48:18.823Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mragsac.com/index.html</loc>
+    <lastmod>2025-01-24T18:47:20.400Z</lastmod>
   </url>
 </urlset>

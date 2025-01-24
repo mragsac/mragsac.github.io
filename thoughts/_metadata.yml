@@ -1,0 +1,23 @@
+#################################################
+# Provide options applying to all posts in folder
+# https://quarto.org/docs/reference/formats/html.html
+#################################################
+# Create some defaults for posts, such as drafts by default
+author: "Michelle Franc Ragsac"
+draft: true 
+
+# Freeze computational output
+freeze: true 
+
+# Format the Table of Contents for longer posts
+format:
+  html:
+    toc: true
+    toc-location: left
+    toc-title: "Post Outline"
+    citations-hover: true
+    citation-location: margin
+    footnotes-hover: true
+    reference-location: margin
+    author-meta: Michelle Franc Ragsac
+    license: CC BY-NC-ND
