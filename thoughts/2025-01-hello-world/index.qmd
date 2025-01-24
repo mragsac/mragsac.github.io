@@ -1,7 +1,7 @@
 ---
 title: "Hello, world."
 description: "A more formal introduction to this corner of the internet I’ve rebuilt (again)."
-date: "1/15/2025"
+date: "1/24/2025"
 categories: ['personal']
 draft: false
 ---
@@ -20,7 +20,7 @@ Enter my New Year’s Goal (“resolution” feels too much like an assignment) 
 
 To kick off the festivities, I wanted to share my background and how it has shaped my worldview today. I hope you’ll find this little tidbit at least somewhat interesting!
 
-# Navigating education as a first-generation Filipino American
+# *Pag may tiyaga, may nilaga*
 
 Growing up as a first-generation Filipino American in a multi-generational household quickly internalized the notion that attending an American college was the golden yellow brick road to prosperity in the States. After meeting each other in the United States, my immigrant parents—despite having completed bachelor’s degrees in the Philippines amid the Marcos Regime[^2]—found themselves constantly struggling to prove their competence to employers. Their professional experiences etched into my young mind the stark reality of the challenges faced by foreign-educated professionals in the American job market.
 
