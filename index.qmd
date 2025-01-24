@@ -29,3 +29,10 @@ Currently, she is a **Postdoctoral Scholar** studying pediatric asthma in [Tiffa
 ### University of California, San Diego
 * **Ph.D.** Bioinformatics & Systems Biology (*Sep 2018--Dec 2022*)
 * **B.S.** Bioengineering: Bioinformatics (*Sep 2013--Sep 2017*)
+
+# `work`
+
+* [`Empirico`](https://www.empiri.co/) - **Senior Data Scientist** in Data & Engineering, Bioinformatics (*Mar 2023--Jun 2024*)
+* [`Agena Bioscience`](https://www.agenabio.com/) - **Temporary Research Associate** in Research & Development, Molecular Tools (*Jan 2018--Aug 2018*)
+* [`Agena Bioscience`](https://www.agenabio.com/) - **Temporary Junior Lab Data Analyst** in Applications and Technology Services, Assays by Agena (*Sep 2017--Dec 2017*)
+* [`CS Bio`](https://www.csbio.com/) - **Summer Intern** in Quality Control *through the San Mateo Biotechnology Regional Occupational Training Program (ROP)* (*Jun 2012--Aug 2012*)
